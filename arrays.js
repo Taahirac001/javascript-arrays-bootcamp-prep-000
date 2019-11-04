@@ -34,3 +34,5 @@ function removeElementFromBeginningOfArray(array){
   return slicedArray
 }
 
+function destructivelyRemoveElementFrom
+
